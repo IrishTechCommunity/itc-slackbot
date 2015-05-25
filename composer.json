@@ -1,0 +1,6 @@
+{
+    "require": {
+        "maknz/slack": "^1.5",
+        "php-curl-class/php-curl-class": "^3.5"
+    }
+}
